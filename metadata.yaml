@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '39356'
     url: http://www.gutenberg.org/2009/agents/39356
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38265#My-Life-in-Many-States-and-in-Foreign-LandsDictated-in-My-Seventy-Fourth-Year
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2011-12-10'
 gutenberg_type: Text
